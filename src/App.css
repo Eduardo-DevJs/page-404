@@ -1,0 +1,78 @@
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2.5rem 2rem;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  color: #333;
+  font-weight: 600;
+}
+
+.menu li {
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 0.5rem 0.8rem;
+}
+
+.sign {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2.5rem;
+}
+
+.main-center {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.btn-icon {
+  background: transparent;
+  border: 0;
+}
+
+/* elementos html */
+
+h1 {
+  text-align: center;
+  color: #6784ce;
+  font-size: 3rem;
+  font-weight: 200;
+}
+
+.btn-singup {
+  background-color: #6784ce;
+  padding: 1rem 1.5rem;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  border-radius: 50px;
+}
+
+p {
+  line-height: 1.5;
+  font-size: 1.3rem;
+  color: #B0B0B0;
+  max-width: 30ch;
+  text-align: center;
+}
+
