@@ -4,8 +4,6 @@ import navegador from "./assets/Group 5.svg";
 import sailorLeft from "./assets/sailor_left.png";
 import sailorRight from "./assets/sailor_right.png";
 import shadowYellow from "./assets/Vector.png";
-import { FaMoon } from "react-icons/fa";
-import { useState } from "react";
 import "./App.css";
 
 export default function App() {
